@@ -1,0 +1,2 @@
+apache is a permissive free software license.
+it is released under the apache software foundation.
